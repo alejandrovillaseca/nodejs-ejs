@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "id": "01",
+            "name": "Victor Marin",
+            "email": "vmarin@gmail.com"
+        },
+        {
+            "id": "02",
+            "name": "Rafael Alvarez",
+            "email": "ralvarez@gmail.com"
+        },
+        {
+            "id": "03",
+            "name": "Francisco Martinez",
+            "email": "fmartinez@gmail.com"
+        },
+        {
+            "id": "04",
+            "name": "Adrian Guerrero",
+            "email": "aguerrero@gmail.com"
+        }
+    ]
+}
